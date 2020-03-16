@@ -1,0 +1,2 @@
+- dev `npx ts-node src/index.ts`
+- watch `npx ts-node-dev --respawn src/index.ts`
